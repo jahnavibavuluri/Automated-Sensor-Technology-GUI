@@ -33,7 +33,7 @@ In  addition  to  regulating  the  climate,  the  sensor  system displays  the  
 In  its  current  state,  the  Arduino  works  to  save  energy  by monitoring lighting and air conditioning. Since the Arduino is also  compact  and  has  few  outputs,  it  does  not  require  much energy  to  operate.  In  addition,  the  “smart  house”  has  other helpful features: the Arduino can immediately alert users about open  doors  and  return  the  exact  color  of  objects.  Moreover, the “smart house” is an inexpensive option to regulate housing conditions. The versatility of the Arduino units makes them easy  to  use  as  a  part  of  a  larger  communications  network, forming an IoT by functioning as a liaison between the sensors and the central computer.
 
 ## Publisher
-This project has been published in the IEEE Digital Xplore Library. For more details about the project, please visit [https://ieeexplore.ieee.org/document/9244802]. 
+This project has been published in the IEEE Digital Xplore Library. For more details about the project, please visit https://ieeexplore.ieee.org/document/9244802. 
 
 ## Disclaimer
 Automated Sensor Technology for the Operation of Smart Homes is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Github, or any of its subsidiaries or its affiliates.  
